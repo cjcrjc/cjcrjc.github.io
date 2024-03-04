@@ -92,7 +92,7 @@ const contactConfig = {
     YOUR_EMAIL: "cjchin@uwaterloo.ca",
     YOUR_FONE: "(519)-771-9394",
     description: "Feel free to send a message for any questions or problems!",
-    YOUR_SERVICE_ID: "service_id",
+    YOUR_SERVICE_ID: "service_6le2eiq",
     YOUR_TEMPLATE_ID: "template_id",
     YOUR_USER_ID: "user_id",
 };

@@ -28,6 +28,9 @@ export const ContactUs = () => {
       message: formData.message,
     };
 
+    emailjs.init({
+      publicKey: 'ydYiucMOGQupB4KMF',
+    });
     emailjs
       .send(
         contactConfig.YOUR_SERVICE_ID,
