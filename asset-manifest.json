@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/cjcrjc.github.io/static/css/main.507a3381.css",
-    "main.js": "/cjcrjc.github.io/static/js/main.7f62b69d.js",
-    "static/media/comp2.jpg": "/cjcrjc.github.io/static/media/comp2.827c4f7ff5e379ca10c8.jpg",
-    "static/media/bg.png": "/cjcrjc.github.io/static/media/bg.ecce698291636f6c393b.png",
-    "static/media/scrapper.png": "/cjcrjc.github.io/static/media/scrapper.5685ed70e179b0ae504c.png",
-    "static/media/door.png": "/cjcrjc.github.io/static/media/door.d649d45e5b00324a8b1a.png",
-    "static/media/golf.png": "/cjcrjc.github.io/static/media/golf.93343a50f1dda5b0bc72.png",
-    "static/media/pharma4.png": "/cjcrjc.github.io/static/media/pharma4.49d11f646a06fa64f791.png",
-    "index.html": "/cjcrjc.github.io/index.html"
+    "main.css": "/static/css/main.507a3381.css",
+    "main.js": "/static/js/main.ab78a96f.js",
+    "static/media/comp2.jpg": "/static/media/comp2.827c4f7ff5e379ca10c8.jpg",
+    "static/media/bg.png": "/static/media/bg.ecce698291636f6c393b.png",
+    "static/media/scrapper.png": "/static/media/scrapper.5685ed70e179b0ae504c.png",
+    "static/media/door.png": "/static/media/door.d649d45e5b00324a8b1a.png",
+    "static/media/golf.png": "/static/media/golf.93343a50f1dda5b0bc72.png",
+    "static/media/pharma4.png": "/static/media/pharma4.49d11f646a06fa64f791.png",
+    "index.html": "/index.html"
   },
   "entrypoints": [
     "static/css/main.507a3381.css",
-    "static/js/main.7f62b69d.js"
+    "static/js/main.ab78a96f.js"
   ]
 }
